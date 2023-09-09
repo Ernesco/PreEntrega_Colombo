@@ -1,0 +1,21 @@
+.principal{
+    width: 100%;
+    box-shadow: 0 0 0 1px black;
+}
+.articulos{
+    display: grid;
+    place-items: center;
+    flex-wrap: wrap;
+    padding: 15px;
+    background-color: rgb(225, 225, 225);
+    color: rgb(0, 46, 47);
+}
+.titulo{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(139, 139, 139);
+    padding: 15px;
+}
+.seccion{
+    font-size: 30px;
+}
